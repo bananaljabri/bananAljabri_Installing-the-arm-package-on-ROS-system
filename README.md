@@ -86,7 +86,7 @@ Then follow this steps on cmd  terminal
 
 •	open a file (bashrc) : sudo nano ~/.bashrc.
 
-•	At the end of the file add the follwing linesource /home/mo7dsaleh/catkin_ws/devel/setup.bash then press ctrl + o, (Note that mo7dsaleh is my ubuntu username).
+•	At the end of the file add the follwing linesource /home/banan/catkin_ws/devel/setup.bash then press ctrl + o, (Note that banan is my ubuntu username).
 
 •	source ~/.bashrc
 
