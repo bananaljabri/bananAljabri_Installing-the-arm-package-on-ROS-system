@@ -131,6 +131,8 @@ Then follow this steps on cmd  terminal
 
 •	roslaunch moveit_pkg demo.launch
  
+ ![image](https://user-images.githubusercontent.com/81714161/130367610-602e04d5-6c06-496a-9f8d-1db7b4d9bf4a.png)
+
 
 10-	You may encounter many errors during the installation process, these links helped me:
 
